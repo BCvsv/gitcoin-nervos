@@ -1,1 +1,1 @@
-Challenge 0 nervosnetwork hackaton 
+Challenge 0 nervos hackaton 
