@@ -1,6 +1,10 @@
 Nervos hackaton challenge 6
 
 
+Depsoit_reciever_adress_gen:
+
+![Alt text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%206/Deposit_reciever_adress_gen.PNG?raw=true)
+
 Used ethereum adress:
 
 0x4Af161A7BEd56b84f6C6019c7B533beF4A95D6c2
