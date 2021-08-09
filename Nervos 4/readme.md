@@ -6,7 +6,7 @@ sudt-cli_token_creation:
 
 layer2_deposit:
 
-![Alt text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%204/layer2_deposit.PNG?raw=true)
+![Alt text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%204/layer2_deposit_tx.PNG?raw=true)
 
 Layer1_address link:
 
