@@ -18,4 +18,4 @@ https://explorer.nervos.org/aggron/transaction/0xad6443318a8b4bc9c00cf0451fbd8df
 
 SUDT_ID:
 
-0x614975c06797076e2c902d06b6dc32afb9c4f04234a9201654824acc8362d3f6
+737
