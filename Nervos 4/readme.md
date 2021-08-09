@@ -2,7 +2,7 @@ Challenge 4 nervos hackaton
 
 sudt-cli_token_creation:
 
-[Alt text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%204/sudt-cli_token_creation.PNG?raw=true)
+[!Alt text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%204/sudt-cli_token_creation.PNG?raw=true)
 
 Layer1_address link:
 
