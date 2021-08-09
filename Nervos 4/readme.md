@@ -17,4 +17,5 @@ Transaction-ID link:
 https://explorer.nervos.org/aggron/transaction/0xad6443318a8b4bc9c00cf0451fbd8df767f8be6bc6e25a70d5c4dc225384ccbf
 
 SUDT_ID:
-![Text](https://github.com/BCvsv/gitcoin-nervos/blob/main/Nervos%204/SUDT_ID.txt?raw=true)
+
+0x614975c06797076e2c902d06b6dc32afb9c4f04234a9201654824acc8362d3f6
